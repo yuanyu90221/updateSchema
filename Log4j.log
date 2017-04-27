@@ -1,0 +1,77 @@
+[17/04/27 12:32:14][INFO][com.yuanyu.UpdateViewSchema-31] TABLE_ID:dashboard_detail.id
+[17/04/27 12:32:14][INFO][com.yuanyu.UpdateViewSchema-32] TABLE_USER_NAME :dashboard_detail.user_name
+[17/04/27 12:32:14][INFO][com.yuanyu.UpdateViewSchema-33] TABLE_USER_PHONE: dashboard_detail.user_phone
+[17/04/27 12:32:14][INFO][com.yuanyu.UpdateViewSchema-34] TABLE_USER_EMAIL: dashboard_detail.user_email
+[17/04/27 12:32:14][INFO][com.yuanyu.UpdateViewSchema-35] TABLE_PRIVILEGES: dashboard_privileges.privileges
+[17/04/27 12:32:14][INFO][com.yuanyu.UpdateViewSchema-36] JOIN_COND: dashboard_detail.id = dashboard_privileges.id
+[17/04/27 12:32:14][INFO][com.yuanyu.UpdateViewSchema-48] properties loaded!!
+[17/04/27 12:32:43][INFO][com.yuanyu.UpdateViewSchema-30] TABLE_ID:dashboard_detail.id
+[17/04/27 12:32:43][INFO][com.yuanyu.UpdateViewSchema-31] TABLE_USER_NAME :dashboard_detail.user_name
+[17/04/27 12:32:43][INFO][com.yuanyu.UpdateViewSchema-32] TABLE_USER_PHONE: dashboard_detail.user_phone
+[17/04/27 12:32:43][INFO][com.yuanyu.UpdateViewSchema-33] TABLE_USER_EMAIL: dashboard_detail.user_email
+[17/04/27 12:32:43][INFO][com.yuanyu.UpdateViewSchema-34] TABLE_PRIVILEGES: dashboard_privileges.privileges
+[17/04/27 12:32:43][INFO][com.yuanyu.UpdateViewSchema-35] JOIN_COND: dashboard_detail.id = dashboard_privileges.id
+[17/04/27 12:32:43][INFO][com.yuanyu.UpdateViewSchema-47] properties loaded!!
+[17/04/27 12:38:06][INFO][com.yuanyu.UpdateViewSchema-32] TABLE_ID:dashboard_detail.id
+[17/04/27 12:38:06][INFO][com.yuanyu.UpdateViewSchema-33] TABLE_USER_NAME :dashboard_detail.user_name
+[17/04/27 12:38:06][INFO][com.yuanyu.UpdateViewSchema-34] TABLE_USER_PHONE: dashboard_detail.user_phone
+[17/04/27 12:38:06][INFO][com.yuanyu.UpdateViewSchema-35] TABLE_USER_EMAIL: dashboard_detail.user_email
+[17/04/27 12:38:06][INFO][com.yuanyu.UpdateViewSchema-36] TABLE_PRIVILEGES: dashboard_privileges.privileges
+[17/04/27 12:38:06][INFO][com.yuanyu.UpdateViewSchema-37] JOIN_COND: dashboard_detail.id = dashboard_privileges.id
+[17/04/27 12:38:06][INFO][com.yuanyu.UpdateViewSchema-38] CONNECT_STR: jdbc:mysql://127.0.0.1:3306/hr?user=root&password=dob770407
+[17/04/27 12:38:06][INFO][com.yuanyu.UpdateViewSchema-39] DriverName: com.mysql.jdbc.Driver
+[17/04/27 12:38:06][INFO][com.yuanyu.UpdateViewSchema-50] properties loaded!!
+[17/04/27 13:21:50][INFO][com.yuanyu.UpdateViewSchema-40] TABLE_ID:dashboard_detail.id
+[17/04/27 13:21:50][INFO][com.yuanyu.UpdateViewSchema-41] TABLE_USER_NAME :dashboard_detail.user_name
+[17/04/27 13:21:50][INFO][com.yuanyu.UpdateViewSchema-42] TABLE_USER_PHONE: dashboard_detail.user_phone
+[17/04/27 13:21:50][INFO][com.yuanyu.UpdateViewSchema-43] TABLE_USER_EMAIL: dashboard_detail.user_email
+[17/04/27 13:21:50][INFO][com.yuanyu.UpdateViewSchema-44] TABLE_PRIVILEGES: dashboard_privileges.privileges
+[17/04/27 13:21:50][INFO][com.yuanyu.UpdateViewSchema-45] JOIN_COND: dashboard_detail.id = dashboard_privileges.id
+[17/04/27 13:21:50][INFO][com.yuanyu.UpdateViewSchema-46] CONNECT_STR: jdbc:mysql://127.0.0.1:3306/hr?user=root&password=dob770407
+[17/04/27 13:21:50][INFO][com.yuanyu.UpdateViewSchema-47] DriverName: com.mysql.jdbc.Driver
+[17/04/27 13:21:50][INFO][com.yuanyu.UpdateViewSchema-58] properties loaded!!
+[17/04/27 13:24:21][INFO][com.yuanyu.UpdateViewSchema-40] TABLE_ID:dashboard_detail.id
+[17/04/27 13:24:21][INFO][com.yuanyu.UpdateViewSchema-41] TABLE_USER_NAME :dashboard_detail.user_name
+[17/04/27 13:24:21][INFO][com.yuanyu.UpdateViewSchema-42] TABLE_USER_PHONE: dashboard_detail.user_phone
+[17/04/27 13:24:21][INFO][com.yuanyu.UpdateViewSchema-43] TABLE_USER_EMAIL: dashboard_detail.user_email
+[17/04/27 13:24:21][INFO][com.yuanyu.UpdateViewSchema-44] TABLE_PRIVILEGES: dashboard_privileges.privileges
+[17/04/27 13:24:21][INFO][com.yuanyu.UpdateViewSchema-45] JOIN_COND: dashboard_detail.id = dashboard_privileges.id
+[17/04/27 13:24:21][INFO][com.yuanyu.UpdateViewSchema-46] CONNECT_STR: jdbc:mysql://127.0.0.1:3306/hr?user=root&password=dob770407
+[17/04/27 13:24:21][INFO][com.yuanyu.UpdateViewSchema-47] DriverName: com.mysql.jdbc.Driver
+[17/04/27 13:24:21][INFO][com.yuanyu.UpdateViewSchema-58] properties loaded!!
+[17/04/27 13:24:49][INFO][com.yuanyu.UpdateViewSchema-40] TABLE_ID:dashboard_detail.id
+[17/04/27 13:24:49][INFO][com.yuanyu.UpdateViewSchema-41] TABLE_USER_NAME :dashboard_detail.user_name
+[17/04/27 13:24:49][INFO][com.yuanyu.UpdateViewSchema-42] TABLE_USER_PHONE: dashboard_detail.user_phone
+[17/04/27 13:24:49][INFO][com.yuanyu.UpdateViewSchema-43] TABLE_USER_EMAIL: dashboard_detail.user_email
+[17/04/27 13:24:49][INFO][com.yuanyu.UpdateViewSchema-44] TABLE_PRIVILEGES: dashboard_privileges.privileges
+[17/04/27 13:24:49][INFO][com.yuanyu.UpdateViewSchema-45] JOIN_COND: dashboard_detail.id = dashboard_privileges.id
+[17/04/27 13:24:49][INFO][com.yuanyu.UpdateViewSchema-46] CONNECT_STR: jdbc:mysql://127.0.0.1:3306/hr?user=root&password=dob770407
+[17/04/27 13:24:49][INFO][com.yuanyu.UpdateViewSchema-47] DriverName: com.mysql.jdbc.Driver
+[17/04/27 13:24:49][INFO][com.yuanyu.UpdateViewSchema-58] properties loaded!!
+[17/04/27 13:25:20][INFO][com.yuanyu.UpdateViewSchema-40] TABLE_ID:dashboard_detail.id
+[17/04/27 13:25:20][INFO][com.yuanyu.UpdateViewSchema-41] TABLE_USER_NAME :dashboard_detail.user_name
+[17/04/27 13:25:20][INFO][com.yuanyu.UpdateViewSchema-42] TABLE_USER_PHONE: dashboard_detail.user_phone
+[17/04/27 13:25:20][INFO][com.yuanyu.UpdateViewSchema-43] TABLE_USER_EMAIL: dashboard_detail.user_email
+[17/04/27 13:25:20][INFO][com.yuanyu.UpdateViewSchema-44] TABLE_PRIVILEGES: dashboard_privileges.privileges
+[17/04/27 13:25:20][INFO][com.yuanyu.UpdateViewSchema-45] JOIN_COND: dashboard_detail.id = dashboard_privileges.id
+[17/04/27 13:25:20][INFO][com.yuanyu.UpdateViewSchema-46] CONNECT_STR: jdbc:mysql://127.0.0.1:3306/mydata?user=root&password=dob770407
+[17/04/27 13:25:20][INFO][com.yuanyu.UpdateViewSchema-47] DriverName: com.mysql.jdbc.Driver
+[17/04/27 13:25:20][INFO][com.yuanyu.UpdateViewSchema-58] properties loaded!!
+[17/04/27 13:26:02][INFO][com.yuanyu.UpdateViewSchema-40] TABLE_ID:dashboard_detail.id
+[17/04/27 13:26:02][INFO][com.yuanyu.UpdateViewSchema-41] TABLE_USER_NAME :dashboard_detail.user_name
+[17/04/27 13:26:02][INFO][com.yuanyu.UpdateViewSchema-42] TABLE_USER_PHONE: dashboard_detail.user_phone
+[17/04/27 13:26:02][INFO][com.yuanyu.UpdateViewSchema-43] TABLE_USER_EMAIL: dashboard_detail.user_email
+[17/04/27 13:26:02][INFO][com.yuanyu.UpdateViewSchema-44] TABLE_PRIVILEGES: dashboard_privileges.privileges
+[17/04/27 13:26:02][INFO][com.yuanyu.UpdateViewSchema-45] JOIN_COND: dashboard_detail.id = dashboard_privileges.id
+[17/04/27 13:26:02][INFO][com.yuanyu.UpdateViewSchema-46] CONNECT_STR: jdbc:mysql://127.0.0.1:3306/mydata?user=root&password=dob770407
+[17/04/27 13:26:02][INFO][com.yuanyu.UpdateViewSchema-47] DriverName: com.mysql.jdbc.Driver
+[17/04/27 13:26:02][INFO][com.yuanyu.UpdateViewSchema-58] properties loaded!!
+[17/04/27 13:28:16][INFO][com.yuanyu.UpdateViewSchema-40] TABLE_ID:dashboard_detail.id
+[17/04/27 13:28:16][INFO][com.yuanyu.UpdateViewSchema-41] TABLE_USER_NAME :dashboard_detail.user_name
+[17/04/27 13:28:16][INFO][com.yuanyu.UpdateViewSchema-42] TABLE_USER_PHONE: dashboard_detail.user_phone
+[17/04/27 13:28:16][INFO][com.yuanyu.UpdateViewSchema-43] TABLE_USER_EMAIL: dashboard_privileges.user_email
+[17/04/27 13:28:16][INFO][com.yuanyu.UpdateViewSchema-44] TABLE_PRIVILEGES: dashboard_privileges.privileges
+[17/04/27 13:28:16][INFO][com.yuanyu.UpdateViewSchema-45] JOIN_COND: dashboard_detail.id = dashboard_privileges.id
+[17/04/27 13:28:16][INFO][com.yuanyu.UpdateViewSchema-46] CONNECT_STR: jdbc:mysql://127.0.0.1:3306/mydata?user=root&password=dob770407
+[17/04/27 13:28:16][INFO][com.yuanyu.UpdateViewSchema-47] DriverName: com.mysql.jdbc.Driver
+[17/04/27 13:28:16][INFO][com.yuanyu.UpdateViewSchema-58] properties loaded!!
